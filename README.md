@@ -1,4 +1,4 @@
-In this project, the following data cleaning operations were performed using Python (with pandas and numpy) and Excel tools:
+In this task, the following data cleaning operations were performed using Python (with pandas and numpy) and Excel tools:
 
 1. Identify and Handle Missing Values
 
